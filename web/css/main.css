@@ -36,3 +36,15 @@
   background: #04AA6D; /* Green background */
   cursor: pointer; /* Cursor on hover */
 }
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
